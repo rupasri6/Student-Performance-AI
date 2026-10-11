@@ -1,0 +1,1 @@
+"""Student report generation."""

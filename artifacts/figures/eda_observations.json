@@ -1,0 +1,18 @@
+{
+  "n_rows": 1044,
+  "n_columns": 42,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "observations": [
+    "Mean G3 is 11.34 (sd 3.86); the mass sits around the pass mark of 10.",
+    "Class counts: {'medium_support': 520, 'low_support': 294, 'high_support': 230}. The classifier must not ignore the smaller high-support group.",
+    "Higher study-time bands tend to show higher median G3, with overlap that rules out a simple rule.",
+    "Very high absence counts are uncommon; moderate absences still appear across the grade range.",
+    "Past failures are one of the strongest raw separators of final grade.",
+    "Math mean G3=10.42; Portuguese mean G3=11.91.",
+    "G1/G2 are excluded from modelling because they correlate so strongly with G3 that they leak the target.",
+    "The engineered engagement score is lower on average in the high-support group.",
+    "Students who do not plan higher education have a visibly lower G3 distribution.",
+    "Missing-cell fraction is 0.0000; imputation still exists in the pipeline for uploaded data."
+  ]
+}
